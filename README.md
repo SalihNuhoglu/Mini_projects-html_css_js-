@@ -12,3 +12,4 @@
 | Scroll Animation |![scroll](https://user-images.githubusercontent.com/96315482/210859493-1ba3fe66-1511-4b24-a009-1f38fb023ee4.gif)|
 | Split Landing Page |![split](https://user-images.githubusercontent.com/96315482/210875153-8a680e2f-aa67-45ae-bc45-6f043b23fd01.gif)|
 | Form Wave Animation |![Form wave](https://user-images.githubusercontent.com/96315482/212137994-d13e971e-8aea-45e1-9cc5-f716dce425eb.gif)|
+| Sound Board |![Sound board](https://user-images.githubusercontent.com/96315482/212144275-f02ecc78-6e87-4e90-be92-780e422034cc.gif)|
