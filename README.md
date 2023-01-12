@@ -11,3 +11,4 @@
 | Blurry Loading |![blurry](https://user-images.githubusercontent.com/96315482/210849121-72c1fbf7-9fd1-47db-ab00-366ecf1956ae.gif)|
 | Scroll Animation |![scroll](https://user-images.githubusercontent.com/96315482/210859493-1ba3fe66-1511-4b24-a009-1f38fb023ee4.gif)|
 | Split Landing Page |![split](https://user-images.githubusercontent.com/96315482/210875153-8a680e2f-aa67-45ae-bc45-6f043b23fd01.gif)|
+| Form Wave Animation |![Form wave](https://user-images.githubusercontent.com/96315482/212137994-d13e971e-8aea-45e1-9cc5-f716dce425eb.gif)|
