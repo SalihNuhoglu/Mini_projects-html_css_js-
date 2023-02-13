@@ -15,3 +15,4 @@
 | Sound Board |![SoundBoard](https://user-images.githubusercontent.com/96315482/212144697-43923519-1f34-4269-9796-48c9a981ad35.gif)|
 | Dad Jokes |![DadJokes](https://user-images.githubusercontent.com/96315482/217339412-2a50aaa4-81a8-4750-bc97-8be11ecffe47.gif)|
 | Event KeyCodes |![eventkey](https://user-images.githubusercontent.com/96315482/217338704-a3ef4ecf-7b91-47c4-bbc3-9c50d0aa2edd.gif)|
+| FAQ Collapse |![faq collapse](https://user-images.githubusercontent.com/96315482/218548659-870b0791-81be-4f9d-bc09-b5ca55470089.gif)|
